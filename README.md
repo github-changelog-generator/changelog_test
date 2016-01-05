@@ -6,3 +6,5 @@ Test repo for https://github.com/skywinder/github-changelog-generator/
 Update!
 
 :+1:
+test change
+test change
